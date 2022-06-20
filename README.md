@@ -1,5 +1,5 @@
 Hi~ It's Me 👏
-<div>![visitors](https://visitor-badge.glitch.me/badge?page_id=guxuerui.guxuerui&left_color=green&right_color=red)</div>
+<a href="#">![visitors](https://visitor-badge.glitch.me/badge?page_id=guxuerui.guxuerui&left_color=green&right_color=red)</a>
 
 <!--theme: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![gxuerui's GitHub stats](https://github-readme-stats.vercel.app/api?username=guxuerui&show_icons=true&theme=tokyonight)
