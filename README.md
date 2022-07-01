@@ -11,9 +11,6 @@
 <a href="https://github.com/guxuerui/vue3-minesweeper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guxuerui&repo=vue3-minesweeper" />
 </a>
-<a href="https://github.com/guxuerui/my-vue-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guxuerui&repo=my-vue-app" />
-</a> -->
 
 <!-- https://shields.io/category/coverage 制作小牌子 -->
 
