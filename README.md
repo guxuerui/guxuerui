@@ -1,4 +1,6 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=guxuerui.guxuerui&left_color=green&right_color=red)
+Hi, I'm Qishi:clap: / Front-end developer
+
+Visit my [blog](https://www.guxuerui.cn)
 
 <!--theme: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
