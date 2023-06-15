@@ -1,30 +1,22 @@
-Hi, I'm Qishi:clap: / Front-end developer
+<p align="left">
+  <a href="https://www.guxuerui.cn">Hi there, I'm Guxuerui~</a>
+</p>
 
-Visit my [blog](https://www.guxuerui.cn)
+A self-taught passionate FrontEnd developer from China :cn:
 
-<!--theme: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+**About me**
 
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js)
-![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat&logo=svelte&logoColor=f00)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack)
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat&logo=vite)
+- 💼 FrontEnd Engineer, and my [Blog](https://www.guxuerui.cn)
 
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=639A57)
-![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=Express&logoColor=259DFF)
-![Koa](https://img.shields.io/badge/-Koa-black?style=flat&logo=Koa&logoColor=007EC6)
+- ❤️ I love writing `Vue3` / `Svelte(kit)` / `TypeScript`, and building fun experiments on type-level
 
-![gxuerui's GitHub stats](https://github-readme-stats.vercel.app/api?username=guxuerui&show_icons=true&theme=tokyonight)
+- 💬 Ask me about anything [here](https://github.com/guxuerui/guxuerui/issues)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guxuerui&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxuerui&bg_color=30,1a1b27,628fdb&title_color=fff&text_color=fff" />
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" alt="svelte" src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<!-- <a href="https://github.com/guxuerui/nvim-0.8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guxuerui&repo=nvim-0.8" />
-</a> -->
-
-<!-- https://shields.io/category/coverage 制作小牌子 -->
+| <a href="https://github.com/guxuerui/guxuerui"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guxuerui&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Guxuerui's github stats" /></a> | <a href="https://github.com/guxuerui/guxuerui"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxuerui&theme=buefy&hide_border=true&layout=compact" /></a> |
+| ------------- | ------------- |
